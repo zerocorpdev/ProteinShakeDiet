@@ -1,0 +1,114 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Recipe",
+      "image": "file:///android_asset/image/image1.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Recipe",
+      "title": "Cinnamon Roll Shake recipe",
+      "image": "https://user-images.githubusercontent.com/63693514/99773705-686f7100-2b3f-11eb-91eb-0d9549080201.jpg",
+      "description": "Awesome Cinnamon Roll Shake",
+      "link": "https://raw.githubusercontent.com/darwindroid/gambar/main/Protein3.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Recipe",
+      "title": "Vanilla Berry Protein Smoothie Recipe",
+      "image": "https://user-images.githubusercontent.com/63693514/99809150-75f31e00-2b74-11eb-98c6-56637cf8cc54.jpg",
+      "description": "Fresh Vanilla Berry Protein Smoothie",
+      "link": "https://raw.githubusercontent.com/darwindroid/gambar/main/protein4.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Recipe",
+      "title": "Banana Protein Shake Recipe",
+      "image": "https://user-images.githubusercontent.com/63693514/99773050-71137780-2b3e-11eb-9cef-54a6596715d2.jpg",
+      "description": "Did you know an average banana contains 3% of your daily value of protein?",
+      "link": "https://raw.githubusercontent.com/darwindroid/gambar/main/protein1.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Recipe",
+      "title": "Peanut Butter Chocolate Protein Shake",
+      "image": "https://user-images.githubusercontent.com/63693514/99772791-019d8800-2b3e-11eb-8c87-cc228458a315.jpg",
+      "description": "Lets Try Peanut Butter Chocolate Protein Shake Recipe",
+      "link": "https://raw.githubusercontent.com/darwindroid/gambar/main/protein2.html"
+    }
+  ]
+}
